@@ -57,8 +57,8 @@ I am a results-driven **Frontend Developer** with over 4 years of professional e
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sokar2020&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Ahmed's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-sokar2020&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmed-sokar2020&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Ahmed's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ahmed-sokar2020&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
 </p>
 
 <p align="center">
